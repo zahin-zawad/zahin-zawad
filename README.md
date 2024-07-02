@@ -3,7 +3,7 @@
 Skills: REACT / JS / HTML / CSS
 
 - 🔭 I’m currently working on something special 
-- 🌱 I’m currently learning REACT / JS / HTML / CSS 
+- 🌱 I’m currently learning Nextjs, Typescript, TailwindCSS 
 - 📫 How to reach me: zahin.zawad.19@gmail.com 
 
 
