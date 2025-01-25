@@ -1,9 +1,9 @@
 ### Hi there 👋, I am Zahin Zawad
 
-Skills: REACT / JS / HTML / CSS
+Skills: HTML/CSS/Javascript/TypeScript/TailwindCSS/React/NextJs
 
 - 🔭 I’m currently working on something special 
-- 🌱 I’m currently learning Nextjs, Typescript, TailwindCSS 
+- 🌱 I’m currently learning NodeJS,Express,MongoDB
 - 📫 How to reach me: zahin.zawad.19@gmail.com 
 
 
